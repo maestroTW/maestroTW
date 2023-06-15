@@ -1,8 +1,8 @@
-- 👋 Hi, I’m maestro
-- 👀 I’m interested in JS code and Unity
-- 🌱 I’m currently learning JS, Python and TS
+- 👋 Hi, I’m maestroTW
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning JS, Python and C# codes
 - 💞️ I’m looking to collaborate in friendly companies that are ready for difficulties
-- 📫 How to reach me Discord: maestro.#4245
+- 📫 How to reach me Discord: maestrotw
 
 <!---
 maestroTW/maestroTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
