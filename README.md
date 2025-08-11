@@ -3,7 +3,7 @@
 <details>
 <summary><b><i>BEST</i></b></summary>
 <a href="https://github.com/maestroTW/physics-matterJS">
-<img src="https://stats-cards.toil.cc/v1/pin/github?username=maestroTW&repo=physics-matterJS&theme=catppuccin-macchiato&show_owner=false">
+<img src="https://stats-cards.toil.cc/v1/pin/github?username=maestroTW&repo=physics-matterJS&theme=dark&show_owner=false">
 </a>
 </details>
 <!---
